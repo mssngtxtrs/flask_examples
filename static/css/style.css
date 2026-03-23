@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Cantarell";
+    src:
+        local("Cantarell"), url("../fonts/Cantarell-Regular.ttf"),
+        format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Cantarell";
+    src:
+        local("Cantarell"), url("../fonts/Cantarell-Italic.ttf"),
+        format("truetype");
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Cantarell";
+    src:
+        local("Cantarell"), url("../fonts/Cantarell-Bold.ttf"),
+        format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Cantarell";
+    src:
+        local("Cantarell"), url("../fonts/Cantarell-BoldItalic.ttf"),
+        format("truetype");
+    font-style: italic;
+    font-weight: 700;
+}
+
+body {
+    margin: 0;
+    background: #000;
+    color: #fff;
+}
+
+h1,
+p {
+    font-family: "Cantarell";
+}
