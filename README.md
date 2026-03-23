@@ -1,3 +1,5 @@
+notes regarding tech stack
+
 # Used tools
 
 ## Flask
