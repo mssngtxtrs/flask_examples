@@ -1,4 +1,4 @@
-notes regarding tech stack
+Notes regarding tech stack
 
 # Used tools
 
@@ -15,5 +15,5 @@ notes regarding tech stack
 ## PGSQL
 
  - PostgreSQL
- - Adminer (separate project)
+ - Adminer
    - AdminerLoginIP
